@@ -1,5 +1,3 @@
-# CitiBank_Credit_defaulters
-
 # Overview:
 
 To detect default in their newly launched Citi Gold Card.
